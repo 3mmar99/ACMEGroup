@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="15.754">
-    <testcase classname="Login" name="Enter empty value in password field" time="15.658">
-        <system-out>
-            <![CDATA[Given The user open the login page..........................................passed
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="14.275">
+    <testcase classname="Login" name="Enter empty value in password field" time="14.138">
+        <system-out><![CDATA[Given The user open the login page..........................................passed
 When The user enter empty value in password field ""........................passed
 Then The system appear an error password tooltip "<error tooltip>"..........passed
-]]>
-        </system-out>
+]]></system-out>
     </testcase>
 </testsuite>
